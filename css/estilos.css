@@ -1,0 +1,25 @@
+img{
+    width: 400px;
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: 10px;
+}
+h1{
+    color: aqua;
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aquamarine;
+    background-color: black;
+}
+p{
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+footer{
+    background-color: black;
+    color: white;
+}
