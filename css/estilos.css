@@ -12,14 +12,11 @@ img{
 }
 nav ul{
     display: flex;
-    border: 2px solid white;
-    background-color: black;
+    border: 2px solid black;
     justify-content: space-around;
     
 }
-li a{
-    color: white;
-}
+
 h1{
     display: flex;
     justify-content: center;
