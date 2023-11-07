@@ -11,10 +11,12 @@ img{
    
 }
 nav ul{
-    display: flex;
-    border: 2px solid black;
-    justify-content: space-around;
-    
+   padding: 10px;
+   margin: 10px;
+   border: 2px solid black;
+   display: inline-block;
+   width: 25%;
+   
 }
 body{
    max-width: 1250px;
